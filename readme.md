@@ -52,7 +52,9 @@ To set up and run the chatbot, follow these steps:
     - Using a new PDF:
      Run part1_pdf_extraction_&_retriever.ipynb to convert the new PDF to a vector store (update the PDF path as needed). Then, run part2_ui_of_chatbot.ipynb to launch the chatbot.
 
-![Chatbot Sample Output]('sample_output//pic1.png')
+## Chatbot Sample Outputs
+ <img src="sample_output//pic1.png" alt="Chatbot Sample Output">
+ <img src="sample_output//pic2.png" alt="Chatbot Sample Output">
 
 
 
